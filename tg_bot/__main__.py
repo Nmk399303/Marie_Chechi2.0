@@ -18,7 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
- Hello Everyone {}, My Name Is {}!! 
+ Hello Everyone {}, My Name Is {}!
 Here we made 👨🏻‍💻a renamer File Bot🗂 successfully !! Is ready to serve 😜
 ⚜ Features :
 ★Your File renamed with custom Thumbnail support
@@ -33,6 +33,8 @@ All Features are available if you want a Developer tools of this bot contact @An
  @Mr_File_renamer_robot
 
 Developer 👨🏻‍💻 @An0nyMous_DeVeL0per
+
+
 """
 
 HELP_STRINGS = """
