@@ -18,21 +18,12 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
- Hello Everyone {}, My Name Is {}!
-Here we made 👨🏻‍💻a renamer File Bot🗂 successfully !! Is ready to serve 😜
-⚜ Features :
-★Your File renamed with custom Thumbnail support
-★ Rename all types of files
-★Rename your Files Up to 2.1GB 
-
-🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰
-All Features are available if you want a Developer tools of this bot contact @An0nyMous_DeVeL0per
-💐 Special Thanks/Regards to @ErichDaniken
-
-🆕🆓
- @Mr_File_renamer_robot
-
-Developer 👨🏻‍💻 @An0nyMous_DeVeL0per
+ Hello Everyone {}, My Name Is {}! Hello I'm  Psychedelic_TeleBot 
+I'm full Assistant Bot of my Master @No_0nE_Kn0wS_ME 
+Don't disturb my master without My Permission 😈other Wise I spam you  ..
+My Master Verified by Telegram (Proof 🔥🔥 https://t.me/TERROR_VERIFIED/175) 
+So Don't disturb Her ...
+#UrgentPMOnly
 
 
 """
